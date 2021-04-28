@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\laraf\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\laraf\\.nuget\\packages"
+    ]
+  }
+}
